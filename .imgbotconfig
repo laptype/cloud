@@ -1,4 +1,7 @@
 {
   "schedule": "daily"
-  "minKBReduced": 100
+  "minKBReduced": 50
+  "ignoredFiles": [
+    "img/gallery/*"
+   ]
 }

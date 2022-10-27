@@ -1,4 +1,4 @@
 {
-    "schedule": "daily"
-    "minKBReduced": 60
+  "schedule": "daily"
+  "minKBReduced": 60
 }

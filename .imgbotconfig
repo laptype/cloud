@@ -1,0 +1,7 @@
+{
+  "schedule": "weekly"
+  "minKBReduced": 50
+  "ignoredFiles": [
+    "img/gallery/*"
+   ]
+}
